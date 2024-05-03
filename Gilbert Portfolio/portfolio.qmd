@@ -1,0 +1,16 @@
+---
+format: html
+---
+
+Data Science Projects
+
+
+## Data Science and Statistic Projects
+[![Ocean Sustainability](images/hp.jpeg){width=90%}](https://kendallgilbert.georgetown.domains/_site/intro.html)
+
+
+
+[![Prosumers](images/enefit.png){width=30%}](https://drive.google.com/file/d/1xVqMq4uTK7o1kit8cMiTUU4NUMa0_XVl/view?usp=sharing)
+
+
+
