@@ -2,15 +2,44 @@
 format: html
 ---
 
-Data Science Projects
+## Relevant Projects
+
+**Title:** Ocean Sustainability <br>**Class:** DSAN5000 - Data Science and Analytics<br>
+**Description:** Within this project I had the opportunity to complete an abundance of data science techniques in an attempt to learn more about ocean sustainability. The main objective of this project was to answer questions like:
+
+- What is the Importance of Ocean Sustainability?
+- What Negative Impacts Do Humans Have on Ocean Sustainability?
+- What Is Currently Being Done for Ocean Sustainability?
+
+I utilized machine learning techniques such as naive bayes, dimensionality reduction, clustering and decision trees while compelting this project.
+
+[Portfolio](https://kendallgilbert.georgetown.domains/_site/intro.html)
+
+Skills: Python, R-Studio, Scikit Learn, Pandas, Machine Learning, EDA
 
 
-## Data Science and Statistic Projects
-[![Ocean Sustainability](images/hp.jpeg){width=90%}](https://kendallgilbert.georgetown.domains/_site/intro.html)
+**Title:** Energy Behavior and Patterns of Prosumers <br>
+**Class:** DSAN5300 - Statistical Learning for Modeling and Analysis <br>
+**Description:** This project seeks to use statistical and machine
+learning tools to identify if there is a trend in prosumer
+consumption based on power production, current
+weather patterns, the price of both renewable and
+non-renewable energy, location, and time of day.
+Because businesses also use energy differently than
+households, we also attempted to classify if a given
+prosumer was a business or household based on
+their installed solar capacity, location, and net
+energy consumption vs production pattern.
 
+[Research Poster](https://drive.google.com/file/d/1xVqMq4uTK7o1kit8cMiTUU4NUMa0_XVl/view?usp=sharing) <br>
+[Report](https://drive.google.com/file/d/1xVqMq4uTK7o1kit8cMiTUU4NUMa0_XVl/view?usp=sharing)
 
+Skills: Python, R-Studio, Linear / Logistic Regression, LDA / QDA, Neural Networks, Statistical Analysis
 
-[![Prosumers](images/enefit.png){width=30%}](https://drive.google.com/file/d/1xVqMq4uTK7o1kit8cMiTUU4NUMa0_XVl/view?usp=sharing)
+**Title:** Mastering CRM and Data Structures <br>
+**Class:** DSAN5500 Data Structures, Objects and Analysis<br>
+**Description:** This project provided the opportunity to master my proficiency in data structures, specifically linked lists, and think outside the box when it comes to data structures in specific industries. It is beneficial to take a step back from the computer science and bridge the technical work with how it can help a company, and this exploration allowed us to do so.
 
+[Project](https://kendallgilbert.georgetown.domains/_site/5500-project)
 
-
+Skills: Python, Object Oriented Program, Data Structures
